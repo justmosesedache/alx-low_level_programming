@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+ * main - Prints all single digit numbers of base 10 starting from 0,
+ *        only using putchar and without char variables.
  *
  * Return: Always 0 (Success)
  */
